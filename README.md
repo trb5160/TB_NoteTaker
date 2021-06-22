@@ -2,7 +2,9 @@ Tom Barber - Note Taker
 
 Description:  Everyone, no matter what profession they may be in, has those moments throughout the day where they have a good idea, or suddenly remembered something that they forgot.  To help preserve those moments, I've devoloped an app that let's people take notes, and saves them for viewing later.  The app uses a server to store the information and is primarily run with express through javascript.  The app is fully functional as is, but there is always room for improvement.  A natural first improvement I would make to it is to include a calender view option so that people could view their notes by day.
 
-Hieroku Link:
+![Alt text](./public/assets/images/serverScreenshot.png)
+
+Hieroku Link:https://desolate-cliffs-05101.herokuapp.com/
 Github Link: https://github.com/trb5160/TB_TeamProfileGenerator.git
 
 License:
